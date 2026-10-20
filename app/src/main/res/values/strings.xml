@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ReaCut</string>
+    <string name="studio_subtitle">Open-Source NLE &amp; CapCut Draft Studio</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_redo">Redo</string>
+    <string name="action_export">Export</string>
+    <string name="action_import">Import</string>
+    <string name="action_projects">Projects</string>
+    <string name="action_license">License &amp; Architecture</string>
+    <string name="track_video">V1 Main</string>
+    <string name="track_overlay">V2 PIP</string>
+    <string name="track_text">T1 Subs</string>
+    <string name="track_effect">FX LUT</string>
+    <string name="track_audio">A1 Audio</string>
+    <string name="tab_media">Media &amp; Drafts</string>
+    <string name="tab_subtitles">Subtitles</string>
+    <string name="tab_effects">Color &amp; FX</string>
+    <string name="tab_transform">Transform &amp; Keyframes</string>
+    <string name="tab_audio">Speed &amp; Audio</string>
+</resources>

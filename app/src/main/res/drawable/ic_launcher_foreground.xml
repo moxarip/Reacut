@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Film frame & timeline track silhouette -->
+    <path
+        android:fillColor="#FF00E5FF"
+        android:pathData="M26,30 C26,26.69 28.69,24 32,24 L76,24 C79.31,24 82,26.69 82,30 L82,62 C82,65.31 79.31,68 76,68 L32,68 C28.69,68 26,65.31 26,62 Z M46,36 L46,56 L64,46 Z" />
+    <!-- Multi-track timeline bars at bottom -->
+    <path
+        android:fillColor="#FF1DE9B6"
+        android:pathData="M26,74 L50,74 L50,80 L26,80 Z M58,74 L82,74 L82,80 L58,80 Z M34,83 L74,83 L74,88 L34,88 Z" />
+    <!-- Playhead needle -->
+    <path
+        android:fillColor="#FFFF5252"
+        android:pathData="M53,20 L55,20 L55,90 L53,90 Z M50,20 L58,20 L54,25 Z" />
+</vector>

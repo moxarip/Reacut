@@ -1,0 +1,6 @@
+{
+  "name": "ReaCut",
+  "description": "Independent open-source non-linear video editor with CapCut/Jianying draft import/export, multi-track timeline, subtitles, effects, and hardware-accelerated MP4 rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
